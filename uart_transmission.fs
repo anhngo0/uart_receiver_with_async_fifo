@@ -1,0 +1,1 @@
+// copy file impl/pnr/your-file.fs from gowin fpga designer to here
